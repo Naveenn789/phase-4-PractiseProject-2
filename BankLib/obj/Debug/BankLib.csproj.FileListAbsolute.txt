@@ -1,0 +1,6 @@
+C:\Mphasis\Phase-4\practise-projects\Practise Project 2\BankLib\BankLib\bin\Debug\BankLib.dll
+C:\Mphasis\Phase-4\practise-projects\Practise Project 2\BankLib\BankLib\bin\Debug\BankLib.pdb
+C:\Mphasis\Phase-4\practise-projects\Practise Project 2\BankLib\BankLib\obj\Debug\BankLib.csproj.AssemblyReference.cache
+C:\Mphasis\Phase-4\practise-projects\Practise Project 2\BankLib\BankLib\obj\Debug\BankLib.csproj.CoreCompileInputs.cache
+C:\Mphasis\Phase-4\practise-projects\Practise Project 2\BankLib\BankLib\obj\Debug\BankLib.dll
+C:\Mphasis\Phase-4\practise-projects\Practise Project 2\BankLib\BankLib\obj\Debug\BankLib.pdb
